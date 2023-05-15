@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/alancpazetto/](https://github.com/alancpazetto/)
-- 🔭 I’m currently **Staff Engineer on iFood**
+- 🔭 I’m currently **Staff Engineer on Stone Co.**
 - 🌱 I’m currently learning **new languages (🇺🇸 + 🇪🇸)**
 - 💬 Ask me about **frontend techonologies, react, angular, cycling 🚴 or anything** feel free to get in touch, lets talk about
 - 📫 How to reach me **alancpazetto@gmail.com**
